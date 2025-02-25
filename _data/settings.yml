@@ -40,10 +40,10 @@ seo:
 
 blurb: >
   **Yiyu specializes in turning data into insights and insights into action.**
-  Yiyu combines expertise in business analytics and finance, leveraging machine learning and data-driven insights to optimize decision-making. 
-  With experience at Deloitte, RSM, and Everbright Pramerica, Yiyu applies Python, SQL, and Power BI to financial analysis and market research.
-  Fluent in Chinese & English, also can speak basic Spanish & French, they thrive in global, fast-paced environments, driving efficiency and innovation.
-
+  
+  Yiyu combines expertise in *business analytics*, leveraging *machine learning* and *data-driven insights* to optimize *decision-making*. 
+  Yiyu applies Python, SQL, and Power BI to financial analysis and market research.
+  
 skills:
 - {name: Communication, value: '9'}
 - {name: Organization, value: '7'}
