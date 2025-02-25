@@ -39,11 +39,10 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
-
+  **Yiyu specializes in turning data into insights and insights into action.**
+  Yiyu combines expertise in business analytics and finance, leveraging machine learning and data-driven insights to optimize decision-making. 
+  With experience at Deloitte, RSM, and Everbright Pramerica, Yiyu applies Python, SQL, and Power BI to financial analysis and market research.
+  Fluent in Chinese & English, also can speak basic Spanish & French, they thrive in global, fast-paced environments, driving efficiency and innovation.
 
 skills:
 - {name: Communication, value: '9'}
