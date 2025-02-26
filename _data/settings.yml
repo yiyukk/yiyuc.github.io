@@ -39,10 +39,10 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Yiyu specializes in turning data into insights and insights into action.**
+  **Specializing in turning data into insights and insights into action.**
   
   Yiyu combines expertise in *business analytics*, leveraging *machine learning* and *data-driven insights* to optimize *decision-making*. 
-  Yiyu applies Python, SQL, and Power BI to financial analysis and market research.
+  Yiyu applies *Python*, *SQL*, and *Power BI* to financial analysis and market research.
   
 skills:
 - {name: Communication, value: '9'}
